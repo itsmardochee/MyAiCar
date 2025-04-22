@@ -1,0 +1,65 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 899989,
+                "file_path": "results\\CarCheckpoints_050\\CarAgent\\CarAgent-899989.onnx",
+                "reward": 17.299706985553104,
+                "creation_time": 1745314207.0607362,
+                "auxillary_file_paths": [
+                    "results\\CarCheckpoints_050\\CarAgent\\CarAgent-899989.pt"
+                ]
+            },
+            {
+                "steps": 999876,
+                "file_path": "results\\CarCheckpoints_050\\CarAgent\\CarAgent-999876.onnx",
+                "reward": 17.21916678216722,
+                "creation_time": 1745315298.0188098,
+                "auxillary_file_paths": [
+                    "results\\CarCheckpoints_050\\CarAgent\\CarAgent-999876.pt"
+                ]
+            },
+            {
+                "steps": 1099890,
+                "file_path": "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1099890.onnx",
+                "reward": 17.36576771259308,
+                "creation_time": 1745316391.3459027,
+                "auxillary_file_paths": [
+                    "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1099890.pt"
+                ]
+            },
+            {
+                "steps": 1199988,
+                "file_path": "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1199988.onnx",
+                "reward": 16.955019667035057,
+                "creation_time": 1745317489.377473,
+                "auxillary_file_paths": [
+                    "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1199988.pt"
+                ]
+            },
+            {
+                "steps": 1215320,
+                "file_path": "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1215320.onnx",
+                "reward": 17.746302843093872,
+                "creation_time": 1745317666.6491935,
+                "auxillary_file_paths": [
+                    "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1215320.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1215320,
+            "file_path": "results\\CarCheckpoints_050\\CarAgent.onnx",
+            "reward": 17.746302843093872,
+            "creation_time": 1745317666.6491935,
+            "auxillary_file_paths": [
+                "results\\CarCheckpoints_050\\CarAgent\\CarAgent-1215320.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

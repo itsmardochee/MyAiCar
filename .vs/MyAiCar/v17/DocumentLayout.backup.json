@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\MyAiCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9C7D0C-CFE3-7247-A4FD-67E094D087CF}|Assembly-CSharp.csproj|d:\\unity\\myaicar\\assets\\scripts\\caragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9C7D0C-CFE3-7247-A4FD-67E094D087CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9C7D0C-CFE3-7247-A4FD-67E094D087CF}|Assembly-CSharp.csproj|D:\\Unity\\MyAiCar\\assets\\scripts\\playercomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9C7D0C-CFE3-7247-A4FD-67E094D087CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercomtroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerComtroller.cs",
+              "DocumentMoniker": "D:\\Unity\\MyAiCar\\Assets\\Scripts\\PlayerComtroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerComtroller.cs",
+              "ToolTip": "D:\\Unity\\MyAiCar\\Assets\\Scripts\\PlayerComtroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerComtroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:30:54.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarAgent.cs",
+              "DocumentMoniker": "D:\\Unity\\MyAiCar\\Assets\\Scripts\\CarAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarAgent.cs",
+              "ToolTip": "D:\\Unity\\MyAiCar\\Assets\\Scripts\\CarAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarAgent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:06:13.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
