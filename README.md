@@ -29,6 +29,20 @@ The repository includes:
 - **Mathematica**: For advanced computations and modeling.
 - **HLSL**: For custom shader development.
 
+## 🎥 Demo Videos
+
+### Video 1:
+
+
+https://github.com/user-attachments/assets/b1ced1d0-d187-41d3-a13a-d8b5b552175f
+
+### Video 2:
+
+
+https://github.com/user-attachments/assets/87655fba-b6f7-4652-bcf2-5ce8efe6ec7d
+
+
+
 ## 🚀 How to Get Started
 
 1. **Clone the Repository**:
@@ -65,3 +79,16 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out **My AI-Driven Car**! 🚗💨
+
+
+## References
+
+- National Highway Traffic Safety Administration (NHTSA), "Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey," 2015.
+- TapRoot, "The 94 Percent Human Error Statistic – Is It Misleading?"
+- McKinsey & Company, "Autonomous driving’s future: Convenient and connected," 2021.
+- Precedence Research, "Autonomous Vehicle Market Size, Share, Growth, Report 2024-2034."
+- Unity Technologies, "Unity ML-Agents Toolkit."
+- Medium, "Autonomous Driving in Unity using ML Agents."
+- arXiv, "ASAP-RL: Efficient Reinforcement Learning for Autonomous Driving based on Skills and Prior Knowledge," 2023.
+- comma.ai, "OpenPilot – open source advanced driver assistance system."
+- SAE International, "V2X Communications for Vehicle Safety and Automation."
